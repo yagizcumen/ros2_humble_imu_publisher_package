@@ -49,7 +49,7 @@ Modify the `port` variable in `imu_publisher.py` to match your serial device:
 port = "/dev/ttyUSB0"
 ```
 ## Credit
-- The Arduino firmware used in this project was provided by @Albaryan. It is located in `arduino_firmware.ino`.
+- The Arduino firmware and serial reading with calibration sequence code used in this project was provided by @Albaryan.
 
 ## Author
 [Yagiz Cumen]
